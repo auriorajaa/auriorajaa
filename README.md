@@ -8,7 +8,8 @@ Skills: Java and MySQL
 - 🔭 I’m currently working on building projects that keep it simple yet powerful
 - 🌱 I’m currently learning Java GUI, JFrame, and MySQL
 
-<div style="display: flex; gap: 10px; margin-top: 10px;">
+How to reach me:
+<div style="display: flex; gap: 10px; margin-top: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); background-color: #fff; padding: 10px; border-radius: 5px;">
   <a href="https://github.com/auriorajaa">
     <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -20,6 +21,5 @@ Skills: Java and MySQL
   </a>
 </div>
 
-<br>
-
+</br>
 Let's connect!

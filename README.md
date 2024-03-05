@@ -3,6 +3,8 @@
 
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/auriorajaa/auriorajaa/assets/108510729/cda17c4d-152b-4b6f-ba1a-318fff8508c4)
 
+If you come across this page, it is my personal repository showcasing the applications I have developed. This repository covers a range of projects, from web applications to desktop applications.
+
 Skills: Java and MySQL
 
 - 🔭 I’m currently working on building projects that keep it simple yet powerful

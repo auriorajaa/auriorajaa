@@ -1,10 +1,6 @@
 ### **Hi there 👋, my name is Rio**
 #### I'm a Web Developer and web3 enthusiast.
 
-![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/auriorajaa/auriorajaa/assets/108510729/cda17c4d-152b-4b6f-ba1a-318fff8508c4)
-
-I also like to write anything that related to web3 topic (blockchain, NFT, cryptocurrency, etc.), you can read it on my [Medium Personal Account](https://medium.com/@auriorajaa)
-
 If you come across this page, it serves as my personal repository, presenting a range of applications I've developed. This collection includes projects spanning from web applications to desktop applications. Explore each project to gain insights into my proficiency in software development across different domains.
 
 ## My Project Repositories
